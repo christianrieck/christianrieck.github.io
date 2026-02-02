@@ -1,34 +1,93 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"aichholzer":
+  - firstname: ["Oswin"]
+    url: https://www.tugraz.at/institute/atcs/people/oswin-aichholzer
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"akitaya":
+  - firstname: ["Hugo A."]
+    url: https://www.cs.uml.edu/~hakitaya/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"becker":
+  - firstname: ["Aaron T."]
+    url: https://www.ece.uh.edu/faculty/becker-aaron
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"brenner":
+  - firstname: ["Sofia"]
+    url: https://sofiabrenner.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"dorfer":
+  - firstname: ["Joseph"]
+    url: https://www.tugraz.at/institute/atcs/people/joseph-dorfer
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"fekete":
+  - firstname: ["Sándor P."]
+    url: https://www.ibr.cs.tu-bs.de/users/fekete/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"filtser":
+  - firstname: ["Omrit"]
+    url: https://omrit.filtser.com/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"hoang":
+  - firstname: ["Hung", "Hung P."]
+    url: https://pelluceed.github.io/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"keldenich":
+  - firstname: ["Phillip"]
+    url: https://www.ibr.cs.tu-bs.de/users/keldenic/
+
+"kleist":
+  - firstname: ["Linda"]
+    url: https://www.inf.uni-hamburg.de/en/inst/ab/algo/team/kleist.html
+
+"kosfeld":
+  - firstname: ["Ramin"]
+    url: https://www.ibr.cs.tu-bs.de/users/kosfeld/
+
+"kramer":
+  - firstname: ["Peter"]
+    url: https://www.peterkramer.eu/
+
+"krohn":
+  - firstname: ["Erik"]
+    url: https://www.uwosh.edu/cs/faculty-and-staff/krohn/
+
+"krupke":
+  - firstname: ["Dominik"]
+    url: https://krupke.cc/
+
+"merino":
+  - firstname: ["Arturo"]
+    url: https://amerino.cl/
+
+"mitchell":
+  - firstname: ["Joseph S. B."]
+    url: https://www.ams.sunysb.edu/~jsbm/jsbm.html
+
+"mütze":
+  - firstname: ["Torsten"]
+    url: http://tmuetze.de/
+
+"nilsson":
+  - firstname: ["Bengt J."]
+    url: https://mau.se/en/persons/bengt.nilsson.ts/
+
+"scheffer":
+  - firstname: ["Christian"]
+    url: https://www.hochschule-bochum.de/fbe/fachgebiete/informatik-und-mathematik-im-anwendungsfeld-industrie-40/
+
+"schmidt":
+  - firstname: ["Christiane"]
+    url: https://www.itn.liu.se/~chrsc91/
+  - firstname: ["Arne"]
+    url: https://www.ibr.cs.tu-bs.de/users/aschmidt/
+
+"stock":
+  - firstname: ["Frederick"]
+    url: https://fred-stock.github.io/
+
+"verciani":
+  - firstname: ["Francesco"]
+    url: https://www.mathematik.uni-kassel.de/Verciani
+
+"wallner":
+  - firstname: ["Tobias"]
+    url: https://www.ibr.cs.tu-bs.de/users/wallner/

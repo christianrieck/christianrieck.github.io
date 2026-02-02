@@ -2,6 +2,15 @@
  * Reusable component styles: Cards, captions, profiles, etc.
  ******************************************************************************/
 
+
+.top-two {
+     margin-top: 2rem;
+  }
+
+.top-three {
+     margin-top: 3rem;
+  }
+
 // Checklist
 
 ul.task-list {
@@ -175,7 +184,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.3rem;
 
     a {
       img {

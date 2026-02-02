@@ -6,6 +6,7 @@
 
 .publications {
   margin-top: 2rem;
+  margin-bottom: 5rem;
 
   h1 {
     color: var(--global-theme-color);
@@ -37,7 +38,7 @@
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 1.2rem;
 
       .preview {
         display: inline-block;
@@ -68,7 +69,7 @@
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: bold;
       }
 
       .author {
