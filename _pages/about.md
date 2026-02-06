@@ -24,7 +24,7 @@ I am a postdoc at <a href='https://www.mathematik.uni-kassel.de/Rieck'>Universit
 My research interests are in theoretical computer science and discrete mathematics, particularly in computational geometry, graph theory, and combinatorics. 
 I am especially interested in reconfiguration and guarding problems arising in these areas.
 
-Some keywords: Algorithms and complexity, graphs and geometry, geometric and combinatorial optimization, reconfiguration, guarding and covering, Hamiltonicity and tours.
+Keywords: Algorithms and complexity, graphs and geometry, geometric and combinatorial optimization, reconfiguration, guarding and covering, Hamiltonicity and tours.
 
 In 2023, I received my PhD from TU Braunschweig, supervised by [Sándor Fekete](https://www.ibr.cs.tu-bs.de/users/fekete/).
 
