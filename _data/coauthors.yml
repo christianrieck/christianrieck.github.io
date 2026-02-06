@@ -16,7 +16,7 @@
     
 "cheung":
   - firstname: ["Kenneth", "Kenn", "Kenneth C."]
-  url: https://people.csail.mit.edu/kenny/website/index_inf.html
+    url: https://people.csail.mit.edu/kenny/website/index_inf.html
 
 "dorfer":
   - firstname: ["Joseph"]
@@ -32,7 +32,7 @@
     
 "gershenfeld":
   - firstname: ["Neil", "Neil A."]
-  url: https://ng.cba.mit.edu/
+    url: https://ng.cba.mit.edu/
 
 "hoang":
   - firstname: ["Hung", "Hung P."]
@@ -40,7 +40,7 @@
 
 "jenett":
   - firstname: ["Benjamin"]
-  url: https://bej.pages.cba.mit.edu/home/
+    url: https://bej.pages.cba.mit.edu/home/
 
 "keldenich":
   - firstname: ["Phillip"]
@@ -52,7 +52,7 @@
     
 "kobbe":
   - firstname: ["Kai"]
-  url: https://www.tugraz.at/institute/atcs/people/kai-kobbe
+    url: https://www.tugraz.at/institute/atcs/people/kai-kobbe
 
 "kosfeld":
   - firstname: ["Ramin"]
