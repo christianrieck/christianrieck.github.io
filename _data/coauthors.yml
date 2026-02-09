@@ -10,10 +10,18 @@
   - firstname: ["Aaron T."]
     url: https://www.ece.uh.edu/faculty/becker-aaron
 
+"bourgeois":
+  - firstname: ["Julien"]
+    url: https://members.femto-st.fr/julien-bourgeois/en
+
 "brenner":
   - firstname: ["Sofia"]
     url: https://sofiabrenner.github.io/
-    
+
+"brotzner":
+  - firstname: ["Anna"]
+    url: https://mau.se/en/persons/anna.brotzner/
+
 "cheung":
   - firstname: ["Kenneth", "Kenn", "Kenneth C."]
     url: https://people.csail.mit.edu/kenny/website/index_inf.html
@@ -89,6 +97,10 @@
 "perk":
   - firstname: ["Michael"]
     url: https://www.ibr.cs.tu-bs.de/users/mperk/
+
+"piranda":
+  - firstname: ["Benoit", "Benoît"]
+    url: https://members.femto-st.fr/benoit-piranda/en
 
 "scheffer":
   - firstname: ["Christian"]
