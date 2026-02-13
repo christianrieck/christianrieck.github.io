@@ -26,6 +26,6 @@ I am especially interested in reconfiguration and guarding problems arising in t
 
 Keywords: Algorithms and complexity, graphs and geometry, geometric and combinatorial optimization, reconfiguration, guarding and covering, Hamiltonicity and tours.
 
-In 2023, I received my PhD from TU Braunschweig, supervised by [Sándor Fekete](https://www.ibr.cs.tu-bs.de/users/fekete/).
+In 2023, I received my PhD from TU Braunschweig, where I conducted research under the guidance of [Sándor Fekete](https://www.ibr.cs.tu-bs.de/users/fekete/).
 
 Contact: firstname.lastname [at] mathematik.uni-kassel.de
