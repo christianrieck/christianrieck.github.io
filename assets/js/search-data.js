@@ -372,7 +372,7 @@ ninja.data = [{
             },},{id: "news-our-dagstuhl-seminar-discrete-reconfiguration-of-geometric-graphs-drawings-and-arrangements-has-been-accepted",
           title: 'Our Dagstuhl seminar Discrete Reconfiguration of Geometric Graphs, Drawings, and Arrangements has been...',
           description: "",
-          section: "News",},{id: "news-our-two-papers-disproving-two-conjectures-on-the-hamiltonicity-of-venn-diagrams-and-tilt-automata-gathering-particles-with-uniform-external-control-have-been-accepted-for-publication-at-socg-2026",
+          section: "News",},{id: "news-our-two-papers-disproving-two-conjectures-on-the-hamiltonicity-of-venn-diagrams-and-tilt-automata-gathering-particles-with-uniform-external-control-have-been-accepted-at-socg-2026",
           title: 'Our two papers Disproving two conjectures on the Hamiltonicity of Venn diagrams and...',
           description: "",
           section: "News",},{id: "projects-project-1",
