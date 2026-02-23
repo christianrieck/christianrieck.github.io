@@ -120,6 +120,10 @@
   - firstname: ["Francesco"]
     url: https://www.mathematik.uni-kassel.de/Verciani
 
+"vogtenhuber":
+  - firstname: ["Birgit"]
+    url: https://www.tugraz.at/institute/atcs/people/birgit-vogtenhuber
+
 "wallner":
   - firstname: ["Tobias"]
     url: https://www.ibr.cs.tu-bs.de/users/wallner/
