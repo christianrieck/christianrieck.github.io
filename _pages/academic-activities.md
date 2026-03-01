@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-This site is very much in progress.
+This site is very much in progress...
 
 ### Program committee
 * [European Workshop on Computational Geometry (EuroCG 2027)](https://eurocg2027.on.liu.se/)
@@ -15,5 +15,5 @@ This site is very much in progress.
 
 ### Organizing committee
 * [European Workshop on Computational Geometry (EuroCG 2027)](https://eurocg2027.on.liu.se/)
-* Dagstuhl seminar 'Discrete Reconfiguration of Geometric Graphs, Drawings, and Arrangements'
+* [Dagstuhl seminar 'Discrete Reconfiguration of Geometric Graphs, Drawings, and Arrangements'](https://www.dagstuhl.de/27102)
 * [Workshop 'Combinatorics, Algorithms, and Geometry'](http://tmuetze.de/workshop26.html)
