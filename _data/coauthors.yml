@@ -26,6 +26,10 @@
   - firstname: ["Kenneth", "Kenn", "Kenneth C."]
     url: https://people.csail.mit.edu/kenny/website/index_inf.html
 
+"de Berg":
+  - firstname: ["Sarita"]
+    url: https://orcid.org/0000-0001-5555-966X
+
 "dorfer":
   - firstname: ["Joseph"]
     url: https://www.tugraz.at/institute/atcs/people/joseph-dorfer
@@ -41,6 +45,10 @@
 "gershenfeld":
   - firstname: ["Neil", "Neil A."]
     url: https://ng.cba.mit.edu/
+
+"gudmundsson":
+  - firstname: ["Joachim"]
+    url: https://profiles.sydney.edu.au/joachim.gudmundsson
 
 "hoang":
   - firstname: ["Hung", "Hung P."]
@@ -127,3 +135,7 @@
 "wallner":
   - firstname: ["Tobias"]
     url: https://www.ibr.cs.tu-bs.de/users/wallner/
+
+"wong":
+  - firstname: ["Sampson"]
+    url: https://sites.google.com/view/sampsonwong/home
