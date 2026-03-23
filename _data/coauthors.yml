@@ -41,7 +41,11 @@
 "filtser":
   - firstname: ["Omrit"]
     url: https://omrit.filtser.com/
-    
+
+"friemel":
+  - firstname: ["Jonas"]
+    url: https://www.ibr.cs.tu-bs.de/users/friemel/
+
 "gershenfeld":
   - firstname: ["Neil", "Neil A."]
     url: https://ng.cba.mit.edu/
