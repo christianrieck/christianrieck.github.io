@@ -9,7 +9,8 @@ nav_order: 3
 This site is very much in progress...
 
 ### Program committee
-* [European Workshop on Computational Geometry (EuroCG 2027)](https://eurocg2027.on.liu.se/)
+* [Symposium on Computational Geometry (SoCG 2027)](https://cgweek27.computational-geometry.org/)
+* [European Workshop on Computational Geometry (EuroCG 2027) > Co-chair](https://eurocg2027.on.liu.se/)
 * [Symposium on Experimental Algorithms (SEA 2026)](https://sea2026.github.io/)
 * [European Workshop on Computational Geometry (EuroCG 2026)](https://eurocg26.fernuni-hagen.de/)
 
