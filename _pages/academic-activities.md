@@ -9,7 +9,7 @@ nav_order: 3
 This site is very much in progress...
 
 ### Recent Workshops and seminars
-* [6. Rhein-Ruhr Workshop](https://ae.cs.tu-dortmund.de/events/rhein-ruhr-ws/)
+* [6. Rhein-Ruhr Computational Geometry Workshop](https://ae.cs.tu-dortmund.de/events/rhein-ruhr-ws/)
 * [Order & Geometry 2026](https://sites.google.com/view/ordergeometry2026/)
 * [European Research Week on Geometric Graphs 2026](https://ggweek2026.science.uu.nl/)
 * [Workshop on Combinatorics, Algorithms, and Geometry](https://tmuetze.de/workshop26.html)
